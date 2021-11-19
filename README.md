@@ -1,6 +1,6 @@
 ### Eai pessoal ! Eu sou o Mateus  👋
 - 🔭 Atualmente não trabalho
-- 🌱 Estudando JavaScript
+- 🌱 Learning C# .NET
  <div>
   <a href="https://github.com/fferreiracanedo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fferreiracanedo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
