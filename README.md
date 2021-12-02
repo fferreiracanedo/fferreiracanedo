@@ -1,6 +1,7 @@
 ### Eai pessoal ! Eu sou o Mateus  👋
-- 🔭 Atualmente não trabalho
-- 🌱 Learning C# .NET
+
+- 👨‍🎓 Estudando Desenvolvimento Web - Fullstack | Kenzie Academy Brasil
+- 💻 Aprendendo : HTML5| CSS3 | JAVASCRIPT
  <div>
   <a href="https://github.com/fferreiracanedo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fferreiracanedo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
