@@ -2,7 +2,7 @@
 <h3 align="center">Studiyng Web Development at Kenzie Academy Brasil</h3>
 
 
-
+![](https://komarev.com/ghpvc/?username=fferreiracanedo)
 
 
 - 🌱 I’m currently learning **Html5 | Css3 | JavaScript**
