@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mateus</h1>
-<h3 align="center">Studiyng Web Development at Kenzie Academy Brasil</h3>
+
+
+  ![Header](./github-header-image.png)
 
 
 ![](https://komarev.com/ghpvc/?username=fferreiracanedo)
