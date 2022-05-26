@@ -1,4 +1,4 @@
-<img align="center" src="https://i.ibb.co/VgXctFR/img-git.png"/>
+<img align="center" width="100%" src="https://i.ibb.co/VgXctFR/img-git.png"/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fferreiracanedo&color=blueviolet" alt="Profile views" /> 
 
