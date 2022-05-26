@@ -1,9 +1,8 @@
 <img align="center" src="https://i.ibb.co/VgXctFR/img-git.png"/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=birobirobiro&color=blueviolet" alt="Profile views" /> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=fferreiracanedo&color=blueviolet" alt="Profile views" /> 
 
-<img src="https://img.shields.io/twitch/status/birobirobiro?style=social" alt="Twitch Status" />
-</p>
+>
 
 - 🔭  Em busca da primeira Oportunidade..
 
