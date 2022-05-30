@@ -1,37 +1,52 @@
-<img align="center" width="100%" src="https://i.ibb.co/VgXctFR/img-git.png"/>
+# Hi there 👋, My name is Mateus
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fferreiracanedo&color=blueviolet" alt="Profile views" /> 
+<img width="100%" src="https://i.ibb.co/JKTCjBd/header-git.png" alt="my banner">
 
->
+I'm a student, technology enthusiast, currently developing as FullStack Developer at Kenzie Academy Brazil
 
-- 🔭  Em busca da primeira Oportunidade..
+## 💫 Liitle Bit More About Me
+<p>🔭 I'm currently working on Kenzie Academy Brazil - Bootcamp</p>
+<p>🌱 I'm currently learning Node.JS</p>
+<p>💬 Ask me about Front-End Development</p>
+<p>📫 How to reach me? mateusferreiracanedo@gmail.com</p>
+<p>I regularly write articles on <a href="https://github.com/fferreiracanedo?tab=repositories">Here</a></p>
+<p>⚡ Fun Fact: I love anime, especially naruto</p>
 
-- 🌱  Estou estudando **JavaScript, ReactJS, TypeScript, Next.js**
-
-
-
-<br>
-
-## 🛠 &nbsp;Tecnologias
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-
-## ⚙️ &nbsp;GitHub Analytics
-<br>
-
-<p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=fferreiracanedo&show_icons=true&theme=nightowl" alt="fferreira's stats"/>
+## 💻 Skills
+<p>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
 </p>
 
-##
+## 👥 Connect With Me
+<p>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/fferreiracanedo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://twitter.com/https://twitter.com/MateusCanedo1"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://twitter.com/fferreira#0700"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.instagram.com/https://www.instagram.com/fferreiramateus_22/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+</p>
 
+## 🌟 Github Badges
+<p>
+</p>
 
+## 🏆 GitHub Trophies
+
+<p><img src="https://github-profile-trophy.vercel.app/?username=fferreiracanedo">
+</p>
+
+## 📊 Github Status
+
+<p><img src="https://activity-graph.herokuapp.com/graph?username=fferreiracanedo"><p>
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=fferreiracanedo&show_icons=true"><p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fferreiracanedo&layout=compact"><p>
