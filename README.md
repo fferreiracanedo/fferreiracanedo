@@ -34,14 +34,7 @@ I'm a student, technology enthusiast, currently developing as FullStack Develope
 <a href="https://www.instagram.com/https://www.instagram.com/fferreiramateus_22/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
-<p>
-</p>
 
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=fferreiracanedo">
-</p>
 
 ## 📊 Github Status
 
