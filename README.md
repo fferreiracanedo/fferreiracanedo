@@ -53,8 +53,3 @@
   <img src="https://profile-counter.glitch.me/fferreiracanedo/count.svg?"  />
 </div>
 
-###
-
-<img href="https://raw.githubusercontent.com/fferreiracanedo/fferreiracanedo/blob/output/snake.svg" alt="Snake animation" />
-
-###
